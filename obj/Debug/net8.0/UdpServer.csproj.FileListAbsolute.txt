@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UdpServer\UdpServer\bin\Debug\net8.0\UdpServer.exe
+C:\Users\User\source\repos\UdpServer\UdpServer\bin\Debug\net8.0\UdpServer.deps.json
+C:\Users\User\source\repos\UdpServer\UdpServer\bin\Debug\net8.0\UdpServer.runtimeconfig.json
+C:\Users\User\source\repos\UdpServer\UdpServer\bin\Debug\net8.0\UdpServer.dll
+C:\Users\User\source\repos\UdpServer\UdpServer\bin\Debug\net8.0\UdpServer.pdb
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\UdpServer.AssemblyInfo.cs
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\UdpServer.dll
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\refint\UdpServer.dll
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\UdpServer.pdb
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\UdpServer.genruntimeconfig.cache
+C:\Users\User\source\repos\UdpServer\UdpServer\obj\Debug\net8.0\ref\UdpServer.dll
